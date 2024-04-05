@@ -24,14 +24,12 @@ Developed in visual studio code. I used the image creator library to make the im
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
 - no boiler plate youtube channel covers several aspects of rust development
 - https://github.com/rust-lang/rustlings <- this repository teaches you rust
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - Deploy a web version of this project
 - Generate other kinds of mazes
