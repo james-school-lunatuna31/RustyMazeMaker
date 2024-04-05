@@ -11,10 +11,10 @@ Output will be stored in a file (With a name of your choosing) with subdirectori
 The naming convention is as follows
 
 problems
-- Maze_<number>
+- "Maze_\<number\>"
 
 solutions
-- Maze_<number>_<number of steps in the solution>
+- "Maze_\<number\>_\<number of steps in the solution\>"
 
 [Software Demo Video](https://youtu.be/eyDfqUUxHxE)
 
